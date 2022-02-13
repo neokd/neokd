@@ -56,5 +56,5 @@ who is obsessed with the idea of improving himself and wants a platform to grow 
 
 
   
-<img src="https://komarev.com/ghpvc/?username=neokd">
+
 
