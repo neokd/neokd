@@ -45,9 +45,9 @@ who is obsessed with the idea of improving himself and wants a platform to grow 
 <details>
   <summary>More Stats</summary>
   
-  <img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neokd&hide=html&theme=dark&layout=compact&langs_count=8">
+  <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neokd&hide=html&theme=dark&layout=compact&langs_count=8">
 
-<img align="right" width="48%"  src="https://github-readme-streak-stats.herokuapp.com?user=neokd&theme=dark">
+<img align="right" width="47%"  src="https://github-readme-streak-stats.herokuapp.com?user=neokd&theme=dark">
 
 </details>
 
