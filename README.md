@@ -9,7 +9,7 @@
 <hr>
 <h2 align="center">About Me 👨🏻‍💻</h2>
 <br/>
-<h4 align="center">This is ME, Kuldeep, a 2nd year undergraduate from Velammal Engineering College, Chennai.
+<h4 align="center">This is ME, Kuldeep, a 3rd year undergraduate from Velammal Engineering College, Chennai.
 A budding Frontend Developer and a Competitive Programmer Enthusiast  ,
 who is obsessed with the idea of improving himself and wants a platform to grow and excel  .</h4>
 
