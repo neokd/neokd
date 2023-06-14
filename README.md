@@ -1,7 +1,7 @@
 <h1 align="center">Hello Folks, I'm Kuldeep <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = "30px" width="30px"></h1>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=30&center=true&width=1000&lines=Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Frontend+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB">
+<img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=30&center=true&width=1000&lines=Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Engineer+🧑‍💻;AI and ML;">
 
 
 <p align="center"><img src="https://github.com/neokd/neokd/blob/main/bg.png"></p>
@@ -9,7 +9,7 @@
 <hr>
 <h2 align="center">About Me 👨🏻‍💻</h2>
 <br/>
-<h4 align="center">This is ME, Kuldeep, a 3rd year undergraduate from Velammal Engineering College, Chennai.
+<h4 align="center">This is ME, Kuldeep, a 4th year undergraduate from Velammal Engineering College, Chennai.
 A budding Frontend Developer and a Competitive Programmer Enthusiast  ,
 who is obsessed with the idea of improving himself and wants a platform to grow and excel  .</h4>
 
