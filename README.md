@@ -1,8 +1,7 @@
 <h1 align="center">Hello Folks, I'm Kuldeep <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = "30px" width="30px"></h1>
 
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=500&height=80&lines=Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Software+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;AI+%26+ML+%F0%9F%A4%96" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=80&lines=Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Software+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;AI+%26+ML+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <p align="center"><img src="https://github.com/neokd/neokd/blob/main/bg.png"></p>
 
